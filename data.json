@@ -1,0 +1,76 @@
+[
+    {
+        "1": " The ratio of maximum power density in the desired direction to the average power radiated from the antenna is called as  ?",
+        "2": "The number of patterns radiation pattern required to specify the characteristic are: ?",
+        "3": "What is the radiation pattern of an isotropic radiator ?",
+        "4": "A dipole antenna requires to be fed with 20 kW of power to produce a given signal strength to a particular distant point. If the addition of a reflector makes the same field strength available with an input power of 11kW. What is the gain in dB, obtained by the use if the reflector. (Gain referred to this particular dipole).",
+        "5": "What is the directivity of half-wave dipole?",
+        "6": "Which of the following antennas produce a vertical radiation pattern?",
+        "7": "The directivity of an antenna in terms of the aperture efficiency and operating wavelength is given by:",
+        "8": "f directivity of antenna increases, then the coverage area ______",
+        "9": "The half power beam width of an antenna in both θ and φ are 400 each. Then the gain of the antenna is:",
+        "10": "For non-isotropic sources, maximum directivity will always be _______ than unit relative figure of merit"
+    },
+    {
+        "1": [
+            "directivity",
+            "directive gain",
+            "power gain",
+            "partial directivity"
+        ],
+        "2": [
+            "3",
+            "4",
+            "2",
+            "5"
+        ],
+        "3": [
+            "Doughnut",
+            " Sphere",
+            " Hemisphere",
+            " Circular"
+        ],
+        "4": [
+            "4.75",
+            "2.6",
+            "3",
+            "4.24"
+        ],
+        "5": [
+            "1.43",
+            "1.44",
+            "1.5",
+            "1.64" 
+        ],
+        "6": [
+            "Dipole antenna",
+            "Yagi antenna",
+            "Marconi antenna",
+            "Hertz antenna"
+        ],
+        "7": [
+            "4πAe/λ2",
+            "2πAe/λ2",
+            "πAe/λ2",
+            "None of the mentioned"
+        ],
+        "8": [
+            "increases",
+            "decreases",
+            "increases then decreases",
+            "remain unchanged"
+        ],
+        "9": [
+            "23",
+            "27",
+            "14",
+            "25"
+        ],
+        "10": [
+            "greater",
+            "less",
+            "equal",
+            "none of above"
+        ]
+    }
+]
